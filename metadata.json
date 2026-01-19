@@ -1,0 +1,5 @@
+{
+  "name": "AI Smart Assistant (Web Edition)",
+  "description": "A minimalist, AI-powered task management dashboard inspired by desktop office assistants. Features intelligent task categorization and daily summaries using Gemini 1.5 Flash, with browser-based notifications and recurring schedules.",
+  "requestFramePermissions": []
+}
